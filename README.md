@@ -1,6 +1,6 @@
 # SCA-RaspberryPi-EM-datasets
 
-This repository contains electromagnetic trace data from the Raspberry Pi 2B, as presented in my paper *"Attacking High-Performance SBCs: A Generic Preprocessing Framework for EMA"*.
+This repository contains electromagnetic trace data from the Raspberry Pi 2B, as presented in our paper *"Attacking High-Performance SBCs: A Generic Preprocessing Framework for EMA"*.
 
 ## Acquisition Settings
 
